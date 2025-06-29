@@ -39,7 +39,7 @@ A use case diagram is a visual representation in Unified Modeling Language that 
 
 It is useful to help identifying and documenting the functional requirements of a system, facilitates commumication between developers, stakeholders and users by provinding a clear and visual representation of the system's functionality, help define the scope of the project and provide a high-level overview of how users interact with the system.
 
-![User Case Diagram for airbnb alx clone project, alx-booking-uc.png](file:///C:/Users/hp/Downloads/alx-booking-uc.png)
+![User Case Diagram for airbnb alx clone project, alx-booking-uc.png](alx-booking-uc.png)
 
 # Acceptance Criteria
 
