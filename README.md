@@ -13,7 +13,7 @@ The objective of this repository is to enhance a professional developer’s abil
 
 Requrement analysis is usually a technical process and a team effort where stakeholders and software developers determine the needs and conditions that a new or altered software product must meet. This process involves identifying, documenting, and analyzing these business requirements to ensure that they are clearly understood and feasible.
 
-### What is it important?
+### Why is Requirement Analysis Important?
 
 - Helps in understanding what the stakeholders expect from the software, to define the scope of the project and laying a foundation for designing and developing the system, which then helps to avoid costly mistakes  later on.
 
@@ -25,13 +25,13 @@ Requrement analysis is usually a technical process and a team effort where stake
 - **Requirement Analysis and Modeling**: This stage involves taking a closer look at the documented requirements to make sure they are realistic and workable.
 * **Requirement Validation**: The final step in the requirements analysis process, which combines both validation and verification, is about confirming that the requirements actually meet the needs of the stakeholders and the goals of the project.
 
-# Functional vs. non-functional requirements
+# Types of Requirements
 
-Functional requirements describe what the product should do, while non-functional requirements place constraints on how the product should do it.
+**Functional requirements** describe what the product should do, while non-functional requirements place constraints on how the product should do it.
 
 Functional requirements – as the name implies – refer to specific product functionality. Defining, measuring, and testing them is usually a straightforward task.
 
-On the other hand, non-functional requirements (also known as "quality requirements" or "quality attributes") are more abstract. They impose constraints on the implementation of the functional requirements in terms of performance, security, reliability, scalability, portability, and so on.
+On the other hand, **non-functional requirements** (also known as "**quality requirements**" or "**quality attributes**") are more abstract. They impose constraints on the implementation of the functional requirements in terms of performance, security, reliability, scalability, portability, and so on.
 
 # Use Case Diagrams
 
@@ -39,8 +39,7 @@ A use case diagram is a visual representation in Unified Modeling Language that 
 
 It is useful to help identifying and documenting the functional requirements of a system, facilitates commumication between developers, stakeholders and users by provinding a clear and visual representation of the system's functionality, help define the scope of the project and provide a high-level overview of how users interact with the system.
 
-![User Case Diagram for airbnb alx clone project, alx-booking-uc.png](https://drive.google.com/file/d/1GTwO32HVSk-dSAxxRNnoQiT1G2CdhItl/view?usp=sharing)
-
+![User Case Diagram for airbnb alx clone project, alx-booking-uc.png](file:///C:/Users/hp/Downloads/alx-booking-uc.png)
 
 # Acceptance Criteria
 
